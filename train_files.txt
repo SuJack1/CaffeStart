@@ -1,0 +1,12 @@
+c1.jpg 0
+c2.jpg 0
+c3.jpg 0
+c4.jpg 0
+c5.jpg 0
+c6.jpg 0
+cr1.jpg 1
+cr2.jpg 1
+cr3.jpg 1
+cr4.jpg 1
+cr5.jpeg 1
+cr6.jpg 1

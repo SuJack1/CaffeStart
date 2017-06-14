@@ -1,0 +1,8 @@
+c7.jpg 0
+c8.jpeg 0
+c9.jpeg 0
+c10.jpeg 0
+cr7.png 1
+cr8.jpeg 1
+cr9.jpeg 1
+cr10.png 1
